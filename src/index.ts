@@ -8,5 +8,6 @@ const main = async () => {
     type: "postgresql",
     debug: !__prod__,
   });
+  //tes 1
 };
 main();
